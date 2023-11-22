@@ -20,3 +20,20 @@
 ![image](https://github.com/jinnonn/jenkins-netology-hw/assets/146999555/a74b02f9-de56-4d48-81be-e9255407852d)
 ![image](https://github.com/jinnonn/jenkins-netology-hw/assets/146999555/0ac65d2b-e15f-4d9f-923c-e18a32487ef4)
 
+---
+
+### Задание 2
+
+**Что нужно сделать:**
+
+1. Создайте новый проект pipeline.
+2. Перепишите сборку из задания 1 на declarative в виде кода.
+
+В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
+
+---
+
+### Решение 2
+
+![image](https://github.com/jinnonn/jenkins-netology-hw/assets/146999555/adeaae59-ef9b-4e58-9886-6be23af1bb28)
+![image](https://github.com/jinnonn/jenkins-netology-hw/assets/146999555/f46cef7e-2e9b-45e2-b8b0-a74f060e4a97)
